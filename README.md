@@ -9,6 +9,7 @@
 - 支持 Android 8.0 及以上设备。
 - 将应用 APK 安装到手机后，打开「3C记录」即可开始使用。
 - 首次打开时没有产品记录，点击右下角「添加产品」录入第一件产品。
+- 直接下载apk https://github.com/xiesqwork/e-asset-show/releases
 
 ## 1. 添加产品
 
